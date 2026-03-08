@@ -69,37 +69,98 @@
 #### 3. Cofer's Garage (Rockwood, TN — ~30 min away)
 - **Type:** Beer garden & events venue (curates, doesn't brew — same model as Social Brew)
 - **Address:** 141 S Front St, Rockwood, TN 37854
-- **Hours:** Thu–Sat only
-- **Website:** cofersgarage.com — well-designed with dark charcoal tones, Fjalla One headings
-- **Features:**
-  - Events calendar
-  - "Cup Club" loyalty program
-  - Mobile beer trailer (Cofer's 2.0)
-  - Cigars & Guitars event series
-  - FAQ page
-  - Reviews page
-  - Crew/team page
-- **Design:** Dark charcoal backgrounds, warm taupe accents, sticky header, mobile-responsive
+- **Phone:** 865-354-0097
+- **Email:** CofersGarageTn@gmail.com
+- **Hours:** Thu–Fri 4–10pm, Sat 12–10pm (Closed Sun–Wed — only 3 days/week)
+- **Website:** [cofersgarage.com](https://cofersgarage.com) — Squarespace-style, dark charcoal theme, Fjalla One / Source Sans Pro fonts
+- **Social:** [Facebook](https://www.facebook.com/CofersGarage/) | [Instagram](https://www.instagram.com/cofersgarage/) | [Untappd](https://untappd.com/v/cofer-s-garage/12069519)
 - **Tagline:** "Rockwood's Favorite Beer Garden & Events Venue"
-- **Vibe:** Family-friendly, inclusive ("EVERYONE is welcome!"), has 3 spaces (Service Dept, Main Garage, Beer Garden)
-- **What they do well:** Strong website, clear branding, events-driven, loyalty program
-- **Social Brew opportunity:** More days open, downtown walkability, larger tap selection, pour wall
+- **Backstory:** Named for owner Jason Cofer's father, who ran a tire/auto shop at the location until his passing from esophageal cancer in 2019. Opened Father's Day weekend to honor him.
+- **Spaces:** 3 areas — Service Department, Main Garage, Beer Garden (6,000+ sq ft indoor/outdoor)
+- **Offerings:**
+  - Tennessee-made craft beer on draft and in bottles
+  - Rotating regional food trucks
+  - Fire pits, cornhole, ladder toss, lawn games, ax throwing, darts, dominoes
+  - RC Cola and Moon Pies for non-drinkers
+  - Family-friendly, dogs on leash welcome
+- **Website pages/features:**
+  - Home (hero, hours, location, about)
+  - Events (upcoming shows/entertainment)
+  - Cofer's 2.0 Beer Trailer (mobile bar with 6 taps — bookable for private events)
+  - Rounds in the Garage (Nashville songwriter rounds — ticketed dinner + music via Eventbrite)
+  - Cup Club (loyalty/membership — poorly documented, no pricing/benefits/signup on site)
+  - Cigars & Guitars (themed event series)
+  - Cofer's Crew (staff bios with personality — favorite beers, hobbies)
+  - FAQs, Reviews, Contact form, Newsletter signup
+- **Design:** Dark charcoal backgrounds, warm taupe/mauve accents, sticky header, mobile-responsive
+- **What they do well:**
+  - Strong event programming (songwriter rounds, themed nights, regular live music)
+  - Mobile beer trailer — clever revenue extension and marketing vehicle
+  - Staff personality pages build community connection
+  - Clear "family and dog friendly" messaging
+  - Dark, atmospheric brand aesthetic
+- **What they're missing:**
+  - No online tap list (tells people to check social media)
+  - No online ordering or reservations
+  - No merchandise shop
+  - No food truck schedule published
+  - Cup Club details essentially invisible — no pricing, benefits, or signup flow
+  - No beer descriptions or education
+  - No Untappd or tap management integration
+  - Very limited hours (3 days/week)
+- **Social Brew opportunity:** More days open (4 vs 3), downtown walkability, larger tap selection, pour wall, live tap list on website
 
 #### 4. Calfkiller Brewing Company (Sparta, TN — ~35 min away)
-- **Type:** Craft brewery (brews on-site)
+- **Type:** Craft brewery (brews on-site, 7 bbl operation)
 - **Address:** 1839 Blue Springs Rd, Sparta, TN
-- **Website:** calfkillerbeer.com (basic/dated design)
-- **Beers:** 20 beer rotation, 5 staples always on tap + seasonals
-- **Notable brews:** Grassroots Pale Ale, Deadhorse Porter, Smokey Treat Smoked Barley Ale
-- **Features:**
-  - Beer list page
-  - Online merch store (Storenvy)
-  - Brewery tours (Saturdays by appointment)
-  - Food truck on-site
-  - Gift shop with growlers
+- **Phone:** (931) 739-2337
+- **Email:** calfkillerbeer@yahoo.com
+- **Hours:** Mon–Sat 10am–4pm (Closed Sunday — closes early)
+- **Website:** [calfkillerbeer.com](http://www.calfkillerbeer.com/) — dated design, still HTTP (no HTTPS), feels 10+ years old
+- **Online Store:** [calfkillerbrewingco.storenvy.com](https://calfkillerbrewingco.storenvy.com) — separate platform, ~21 items
+- **Social:** [Facebook](https://www.facebook.com/calfkillerbrewingcompany/) | [Instagram](https://www.instagram.com/calfkillerbeer/)
+- **Also on:** Untappd, BeerAdvocate, BeerMenus, Yelp, TripAdvisor, Wikipedia
+- **Backstory:** Brother-owned (Don & Dave Sergio), built from recycled materials, years of legal battles to open
 - **Motto:** "Unparalleled Drinkability, Paradoxically Balanced by Uncompromised Complexity"
-- **What they do well:** Known brand (Social Brew even carries their beer), established brewery cred
-- **Social Brew opportunity:** Better website design, more modern UX, events focus, curated multi-brewery selection
+- **Beers:** 20 beer rotation, 5 flagships always on tap + seasonals
+- **Flagship brews:**
+  - Grassroots Pale Ale
+  - Deadhorse Porter
+  - Smokey Treat (peat smoked barley ale)
+  - Sergio's Ole Evil Ass Devil Bullshit Ale (Belgian Tripel — most popular/reviewed)
+  - Granola Ale, Maple Rye, Wizard Sauce, Coffee Pale Ale (seasonals)
+- **Offerings:**
+  - Gift shop with free beer samples, growler fills (32oz/64oz)
+  - Brewery tours (Saturdays by appointment only — email/call)
+  - Beer garden with fire pits, games
+  - Good Ol' Sloppy Top food truck (often on weekends)
+  - Calfkiller Coffee (fire-roasted beans sold on-site and online)
+  - Dog-friendly, kid-friendly (has a small slide)
+  - Distribution to restaurants/bars across Middle Tennessee
+- **Website pages:**
+  - Home, About Us, Beer (categorized flagships + seasonals with descriptions), Find Our Beer (list by city), Online Store (external Storenvy link), Contact
+- **Merch:** Tour certificates ($50), t-shirts ($25), onesies ($20), hats, pint glasses, coffee beans ($12), growlers ($5–7), stickers ($1), patches, beer soaps ($6), leather koozies
+- **What they do well:**
+  - Authentic founding story
+  - Strong beer descriptions with personality
+  - Beer finder (where to find their beer by city)
+  - Merch store exists (even if basic/disconnected)
+  - Coffee as secondary product line
+  - Memorable beer names
+  - Strong third-party review presence
+- **What they're missing:**
+  - Website is dated, not HTTPS — doesn't reflect quality of physical experience
+  - Merch store on separate platform (Storenvy) — no integration
+  - No events calendar or upcoming events page
+  - No live tap list showing what's currently pouring
+  - No online ordering for beer pickup/delivery
+  - No reservation/tour booking system (email/call only)
+  - No newsletter signup
+  - Closes at 4pm, closed Sundays
+  - No food truck schedule
+  - No loyalty/membership program
+  - No blog or content beyond About page
+- **Social Brew opportunity:** Better website, modern UX, evening hours, events focus, curated multi-brewery selection (including Calfkiller's own beers)
 
 ### Additional Area Competitors
 - **Lilly Pad Hopyard Brewery** — Small batch, near Obed Wild & Scenic River National Park
@@ -110,23 +171,37 @@
 
 | Feature | Social Brew | Cofer's Garage | Calfkiller | Swing On |
 |---|---|---|---|---|
-| Website | ❌ None | ✅ Good | ⚠️ Basic/dated | ✅ Has one |
-| Taps | 10 rotating | Unknown | 20 (own brews) | 11 (own brews) |
-| Cans/Bottles | 60+ | Unknown | Growlers | Unknown |
+| Website | ❌ None | ✅ Good (Squarespace) | ⚠️ Dated, no HTTPS | ✅ Has one |
+| Taps | 10 rotating (multi-brewery) | TN craft (no list online) | 20 (own brews) | 11 (own brews) |
 | Pour Wall | ✅ | ❌ | ❌ | ❌ |
-| Food | BYOF/trucks | Food available | Food truck | Unknown |
-| Events | Music, trivia, karaoke | Music, games, cigars | Tours | Golf sim |
-| Loyalty Program | ❌ | ✅ Cup Club | ❌ | ❌ |
-| Online Store | ❌ | ❌ | ✅ Storenvy | ❌ |
-| Location | Downtown | Small town | Rural | Countryside |
-| Days Open | 4 days | 3 days | Varies | Varies |
+| Cans/Bottles | 60+ | Unknown | Growlers only | Unknown |
+| Online Tap List | ❌ (planned) | ❌ | ❌ | Unknown |
+| Food | BYOF/trucks | Trucks (no schedule) | Truck (no schedule) | Unknown |
+| Events | Music, trivia, karaoke | Music, songwriter rounds, themed nights | Tours only | Golf sim |
+| Loyalty Program | ❌ | ⚠️ Cup Club (poorly documented) | ❌ | ❌ |
+| Online Store | ❌ | ❌ | ⚠️ Storenvy (disconnected) | ❌ |
+| Newsletter | ❌ | ✅ Basic | ❌ | Unknown |
+| Location | Downtown Crossville | Small town Rockwood | Rural Sparta | Countryside |
+| Days/Hours Open | 4 days, evenings | 3 days, evenings | 6 days, closes 4pm | Varies |
+| Mobile Beer Trailer | ❌ | ✅ (6 taps, bookable) | ❌ | ❌ |
 
 ### Social Brew's Key Differentiators
 1. **Pour wall** — unique self-serve experience, no competitor has this
 2. **Downtown Crossville** — walkable, central location
 3. **Curated variety** — 10 taps from many breweries vs. single-brewery taprooms
 4. **60+ cans/bottles** — largest packaged selection in area
-5. **Community hub** — board games, multiple event types, indoor/outdoor seating
+5. **Community hub** — board games, darts, shuffleboard, multiple event types, indoor/outdoor seating
+6. **Evening hours** — open when Calfkiller is closed (they close at 4pm)
+
+### Competitive Gaps to Exploit
+Neither competitor does these well — Social Brew's website can own them:
+1. **Live online tap list** — none publish what's currently on tap on their website
+2. **Food truck schedule** — neither publishes which trucks are coming when
+3. **Proper loyalty program** — Cofer's Cup Club is poorly documented; Calfkiller has nothing
+4. **Integrated merch store** — Calfkiller uses disconnected Storenvy; Cofer's has nothing
+5. **Modern, mobile-first, fast website** — Calfkiller's is dated; Cofer's is template-based
+6. **Beer education/descriptions** — Cofer's has zero; Calfkiller has basic descriptions
+7. **Online event details** — Cofer's pushes to Eventbrite; Calfkiller has nothing
 
 ---
 
