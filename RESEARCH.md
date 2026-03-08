@@ -116,7 +116,7 @@
 - **Phone:** (931) 739-2337
 - **Email:** calfkillerbeer@yahoo.com
 - **Hours:** Mon–Sat 10am–4pm (Closed Sunday — closes early)
-- **Website:** [calfkillerbeer.com](http://www.calfkillerbeer.com/) — dated design, still HTTP (no HTTPS), feels 10+ years old
+- **Website:** [calfkillerbeer.com](http://www.calfkillerbeer.com/) — designed by Brandsmith Creative, dated, still HTTP (no HTTPS)
 - **Online Store:** [calfkillerbrewingco.storenvy.com](https://calfkillerbrewingco.storenvy.com) — separate platform, ~21 items
 - **Social:** [Facebook](https://www.facebook.com/calfkillerbrewingcompany/) | [Instagram](https://www.instagram.com/calfkillerbeer/)
 - **Also on:** Untappd, BeerAdvocate, BeerMenus, Yelp, TripAdvisor, Wikipedia
