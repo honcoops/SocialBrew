@@ -6,22 +6,43 @@
 - **Type:** Craft beer tasting bar (curates & serves, does not brew on-site)
 - **Address:** 140 N Main St, Crossville, TN 38555
 - **Phone:** (931) 456-2739
+- **Email:** SocialBrew180@gmail.com
 - **Hours:** Wed 3–9pm, Thu 3–10pm, Fri–Sat 3–11pm (Closed Sun–Tue)
 - **Taps:** 10 rotating taps — Tennessee breweries (Calfkiller, Yee-Haw), ciders (Blake's Hard Cider), specialty/seasonal rotations focused on unique beers, ciders, sours, and porters
 - **Cans/Bottles:** 60+ in cooler for on-site or retail purchase
 - **Food:** No kitchen — BYOF, delivery welcome, occasional food trucks
 - **Events:** Live music (Fridays), trivia, karaoke
+- **Entertainment:** Darts, shuffleboard, TVs, live music stage
 - **Vibe:** Relaxed downtown gathering spot. Board games, TVs, indoor/outdoor seating. Pet-friendly & family-friendly.
-- **Current Online Presence:** Facebook (5,898 likes), Yelp, Untappd, TripAdvisor, Explore Crossville listing — **no dedicated website**
-- **Facebook:** https://www.facebook.com/SocialBrewCrossville/
-- **Untappd:** https://untappd.com/v/social-brew/3607999
+- **Building:** Renovated 1930s garage — former vehicle service shop, core part of identity
 - **Has a pour wall** (self-serve tap wall)
+- **Current Online Presence:**
+  - **Facebook:** [facebook.com/SocialBrewCrossville](https://www.facebook.com/SocialBrewCrossville/) — 5,898 likes, 3,264 check-ins, 98% recommend (371 reviews)
+  - **Instagram:** [@socialbrewcrossville](https://www.instagram.com/socialbrewcrossville/)
+  - **Untappd:** [untappd.com/v/social-brew/3607999](https://untappd.com/v/social-brew/3607999) (unclaimed)
+  - **Google:** 4.6/5 rating (98 reviews)
+  - **Yelp:** 11 reviews
+  - **TripAdvisor:** 93 reviews
+  - **Explore Crossville:** Listed
+  - **No dedicated website**
 
 ### Brand Identity (from Facebook/online)
-- Described as "relaxed and welcoming" with "laid-back charm" and "friendly vibe"
-- Positioned as a community gathering place — "where old friends and new gather"
-- Indoor and outdoor seating
+- **Tagline:** "Pours warmth, flavor, and community in every glass"
+- **Core positioning:** "A relaxed and welcoming craft beer tasting bar where old friends and new gather over locally curated brews and creative cocktails"
+- **Brand pillars:** Community, warmth, local/craft focus, laid-back social atmosphere
+- **Tone:** Casual, friendly, inclusive, down-to-earth
+- Indoor and outdoor seating (outdoor patio with string lights)
 - Downtown Crossville location — walkable, accessible
+- Rustic/industrial aesthetic — exposed structure, repurposed garage space
+- Intimate, cozy atmosphere
+
+### Inferred Design Direction
+| Element | Direction |
+|---|---|
+| **Color palette** | Warm, earthy tones — dark wood browns, amber/golden beer tones, deep greens or blacks. Rustic garage aesthetic. |
+| **Typography** | Vintage/industrial character fonts for headings. Clean sans-serif for body. Chalkboard or hand-painted sign feel. |
+| **Photography style** | Warm, string-lit ambiance. Craft beer closeups. People gathering casually. The patio. The tap/pour wall. |
+| **Overall feel** | Warm, inviting, unpretentious. Neighborhood gathering spot, not a sleek lounge. "Come as you are" energy. |
 
 ---
 
